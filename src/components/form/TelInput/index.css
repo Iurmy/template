@@ -1,0 +1,8 @@
+.tel-input{
+
+}
+
+.hasErr .ant-input, 
+.hasErr .ant-input:hover {
+  border-color: #f5222d!important;
+}

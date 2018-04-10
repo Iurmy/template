@@ -1,0 +1,16 @@
+.topBar {
+    width: 173px;
+}
+
+.ant-layout-header {
+    padding: 0 27px;
+}
+body .ant-form-item-label{
+  text-align: left;
+}
+
+@media screen and (max-width:992px){
+  .index-content{
+    margin-left: 0!important;
+  }
+}

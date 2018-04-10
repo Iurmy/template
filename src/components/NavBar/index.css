@@ -1,0 +1,20 @@
+.ant-layout-sider-zero-width-trigger{
+  z-index: 101;
+}
+.ant-layout-sider{
+  z-index: 101;
+}
+.serch{
+  margin: 20px 0 20px 5%;
+  width: 90%;
+  
+}
+.serch .ant-btn-primary{
+  background-color: #333;
+  border-color: #7381c6;
+}
+/* .serch .ant-btn-primary:hover, .ant-btn-primary:focus {
+  background-color: #444;
+  border-color: #40a9ff;
+} */
+.left-bar::-webkit-scrollbar {display:none}
